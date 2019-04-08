@@ -1,0 +1,56 @@
+div {
+	margin: 1%;
+	padding: 1%;
+	}
+
+.top {
+	
+	border-style: solid;
+	border-color: silver;
+	border-width: 2px;
+	
+	background-color: gray;
+	}
+
+.izq {
+	border-style: solid;
+	border-color: silver;
+	border-width: 2px;
+	
+	background-color: gray;
+	
+	float: left;
+	height: 70%;
+	}
+
+.der {
+	border-style: solid;
+	border-color: silver;
+	border-width: 2px;
+	
+	background-color: gray;
+	
+	float: left;
+	
+	height: 70%;
+	}
+
+.centro {
+	border-style: solid;
+	border-color: silver;
+	border-width: 2px;
+	
+	text-align: center;
+	
+	background-color: gray;
+	
+	float: left;
+	width: 82%;
+	height: 70%;
+}
+
+label {
+	margin: 5px;
+	width: 4em;
+	display: inline-block;
+}
